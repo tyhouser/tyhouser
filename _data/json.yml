@@ -9,10 +9,10 @@
   typed: true
   
 - key: cv
-  value: cv.pdf (coming soon)
+  value: (coming soon)
   url: /cv.pdf
   
-- key: Contact
+- key: contact
   value:
     - key: discord
       value: pr0sper
@@ -20,7 +20,7 @@
       value: ty@tyhouser.com
       url: "mailto:ty@tyhouser.com"
   
-- key: Profiles
+- key: socials
   value:
     - value: instagram
       url: https://www.instagram.com/
