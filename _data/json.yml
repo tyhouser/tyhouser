@@ -1,14 +1,14 @@
 - key: name
   value: ty houser
   
-- key: description
+- key: bio
   value:
-    - hello!
-    - welcome
-    - nice to meet you
+    - cybersec
+    - ai/ml
+    - student
   typed: true
   
-- key: CV
+- key: cv
   value: cv.pdf (coming soon)
   url: /cv.pdf
   
