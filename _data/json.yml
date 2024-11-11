@@ -1,38 +1,30 @@
 - key: name
-  value: Place Holder
-- key: Description
+  value: ty houser
+  
+- key: description
   value:
-    - Hello!
-    - This tiny website
-    - Looks like JSON
+    - hello!
+    - this is a tiny personal website
+    - nice to meet you
   typed: true
+  
 - key: CV
-  value: cv.pdf
+  value: cv.pdf (coming soon)
   url: /cv.pdf
-- key: Address
-  value:
-    - University of Jekyll
-    - Department of Themes
-    - 123 Main St, Anytown, USA
+  
 - key: Contact
   value:
-    - key: Office
-      value: Foobar Hall 1.23
-    - key: Phone
-      value: +1 234 567 890
+    - key: discord
+      value: pr0sper
     - key: Email
-      value: username@domain.com
-      url: "mailto:username@domain.com"
-- key: Source
-  value: piazzai/hacked-jekyll
-  url: https://github.com/piazzai/hacked-jekyll
+      value: ty@tyhouser.com
+      url: "mailto:ty@tyhouser.com"
+  
 - key: Profiles
   value:
-    - value: Instagram
-      url: https://www.instagram.com
-    - value: LinkedIn
+    - value: instagram
+      url: https://www.instagram.com/
+    - value: linkedin
       url: https://www.linkedin.com
-    - value: StackOverflow
-      url: https://stackoverflow.com
-    - value: GitHub
+    - value: github
       url: https://github.com
