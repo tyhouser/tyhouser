@@ -1,1 +1,24 @@
-# empty
+- key: name
+  value: ty houser
+- key: test
+  value: test
+
+- key: GitHub
+  value: tyhouser
+  url: https://github.com/tyhouser
+
+  - key: Address
+  value:
+    - Ty Houser Co.
+    - 456 Developer Lane
+    - Code City, CA 12345
+
+- key: Contact
+  value:
+    - key: Office
+      value: Dev Hub 101
+    - key: Phone
+      value: +1 555 123 4567
+    - key: Email
+      value: tyhouser@domain.com
+      url: "mailto:tyhouser@domain.com"
