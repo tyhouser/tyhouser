@@ -14,9 +14,7 @@
   
 - key: contact
   value:
-    - key: discord
-      value: pr0sper
-    - key: Email
+    - key: email
       value: ty@tyhouser.com
       url: "mailto:ty@tyhouser.com"
   
