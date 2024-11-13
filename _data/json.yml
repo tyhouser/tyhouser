@@ -10,19 +10,9 @@
   
 - key: cv
   value: (coming soon)
-  url: /cv.pdf
   
 - key: contact
   value:
     - key: email
       value: ty@tyhouser.com
       url: "mailto:ty@tyhouser.com"
-  
-- key: socials
-  value:
-    - value: instagram
-      url: https://www.instagram.com/
-    - value: linkedin
-      url: https://www.linkedin.com
-    - value: github
-      url: https://github.com
