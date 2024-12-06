@@ -10,8 +10,6 @@ exclude:
   - vendor/
 
 plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
 
 sass:
   sourcemap: never
