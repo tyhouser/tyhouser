@@ -1,1 +1,1 @@
-# hacked-jekyll
+# simple static website using hacked-jekyll
